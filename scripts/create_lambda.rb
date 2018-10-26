@@ -13,5 +13,3 @@ command = build_command(
 )
 
 execute_and_print command, 'Creating new lambda'
-
-
