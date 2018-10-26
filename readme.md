@@ -1,4 +1,4 @@
-Copy `scripts/deploy_config_template.yaml` to `scripts/deploy_config.yaml` and fill in the values`
+Copy `scripts/deploy_config_template.yaml` to `scripts/deploy_config.yaml` and fill in the values
 
 #### Initial:  
 Manual process in AWS. Create new Lambda and API Gateway

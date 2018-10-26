@@ -4,4 +4,6 @@ zip_path:
 
 function_name:
 profile_name:
+runtime:
+role_arn:
 ...
